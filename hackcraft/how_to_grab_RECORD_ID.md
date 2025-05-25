@@ -8,3 +8,7 @@
 3. Find the `id` field for your submission.
 
 4. Add the `id` to the script.
+
+![Submission Page Screenshot](./example_page.png)
+
+![Submission Page Screenshot (raw data)](./example_page_raw.png)
