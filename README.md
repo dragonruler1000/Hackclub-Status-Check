@@ -9,6 +9,11 @@ This script checks the status of a specific Airtable record using Hack Club's AP
 - Requires: `curl`, `jq`
 - Run manually or add to cron with: `*/5 * * * * /path/to/check_status.sh`
 
+## Contributing
+
+- All scripts should eather be bash scripts or python scripts.
+- Please read [contributing.md](contributing.md) before contributing.
+
 ## License
 
 MIT
