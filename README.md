@@ -1,3 +1,4 @@
+</br><img src="https://profile-counter.glitch.me/Dragonruler1000-status_check/count.svg" alt="Visitor Counter"/>
 # Status Check Script
 
 This script checks the status of a specific Airtable record using Hack Club's API and sends a push notification via [ntfy.sh](https://ntfy.sh) if the status has changed from "Pending".
