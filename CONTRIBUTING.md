@@ -23,7 +23,7 @@ Thank you for your interest in contributing! Please follow these guidelines to h
 
 ## Code of Conduct
 
-We don’t have a formal code of conduct yet, but please be respectful and constructive in all communications.
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the maintainers.
 
 ---
 
