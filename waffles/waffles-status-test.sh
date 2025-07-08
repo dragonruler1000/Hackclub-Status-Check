@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ID="rec0zyRu1dNlC7nwn"  # Replace with your desired ID
+ID=""  # Add your desired ID
 
 # Fetch raw JSON
 data=$(curl -s https://waffles.hackclub.com/api/airtable)
