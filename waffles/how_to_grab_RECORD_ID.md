@@ -1,6 +1,6 @@
 ### How to Find and Add Your website Submission ID
 
-1. Go to [this link](https://api2.hackclub.com/v0.1/MC%20Modding/Submissions?select=%7B%22filterByFormula%22%3A%22%7BStatus%7D%3D'Pending'%22%7D).
+1. Go to [this link](https://waffles.hackclub.com/api/airtable).
 
 2. Search for your website
    - You can filter for your mod by using part of your GitHub repository name or by using the link to your site.
