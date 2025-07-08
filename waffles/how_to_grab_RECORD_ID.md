@@ -3,7 +3,7 @@
 1. Go to [this link](https://waffles.hackclub.com/api/airtable).
 
 2. Search for your website
-   - You can filter for your mod by using part of your GitHub repository name or by using the link to your site.
+   - You can filter for your site by using part of your GitHub repository name or by using the link to your site.
 
 3. Find the `id` field for your submission.
 
